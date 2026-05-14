@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-database-integration",
+      "title": "Database Integration with SQLite",
+      "description": "Learn to connect Python apps to SQLite databases, perform CRUD operations, and handle data persistence.",
+      "path": "assignments/sqlite-database-integration",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
